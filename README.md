@@ -15,7 +15,7 @@
 
  <!-- Google Assistant apps you will learn latest technologies Google Dialoglfow v2,  -->
 
-## Objective:
+## Objective
 
 In this course you will learn how to make state of the art AI Chatbots.<br>
 [ChatGPT](https://openai.com/blog/chatgpt) is a new kind of AI as a Service (AIaaS) which is gaining significant traction. In the foreseeable future, only large corporations will be responsible for creating their own AI models, while smaller entities will rely on pre-trained, general-purpose models such as ChatGPT. As an AI developer and chatbot expert, I opine that while ChatGPT may not yet be at the peak of its potential, it is poised to make substantial progress in the near future.
@@ -40,14 +40,14 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 
 ### Details
 
-1.  In weak one we will have an overview of :
+1. In weak one we will have an overview of :
 
     - [`Git and Github`](https://youtu.be/vbH9gMqJ5GQ)
     - [`HTML`](https://youtu.be/HcOc7P5BMi4) and [`CSS`](https://youtu.be/Edsxf_NBFrw).
       (1 week)
 
-1.  Exploring the possibilities of future with [`Apple's Vision Pro`](https://www.youtube.com/live/GYkq9Rgoj8E?feature=share), and ChatGPT
-1.  [`JavaScript`](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR) programming fundamental (ES6+) (3 weeks)
+1. Exploring the possibilities of future with [`Apple's Vision Pro`](https://www.youtube.com/live/GYkq9Rgoj8E?feature=share), and ChatGPT
+1. [`JavaScript`](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR) programming fundamental (ES6+) (3 weeks)
     |   |   |
     | --- | --- |
     | Variables | Boolean, Number, String, Array, Objects|
@@ -69,7 +69,7 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
     - [Micro service architecture](https://cloud.google.com/learn/what-is-microservices-architecture)
     - [Ninon service architecture](https://techbeacon.com/app-dev-testing/nanoservices-where-they-fit-where-they-dont) (AWS Lambda)
 
-1.  Writing JavaScript `Servers` with and `Express.js/Node.js` (4 weeks)
+1. Writing JavaScript `Servers` with and `Express.js/Node.js` (4 weeks)
 
     - Introduction to Servers
     - Express.js GET, POST, PUT, DELETE
@@ -80,20 +80,20 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
     - [Cyclic](https://www.cyclic.sh/) (1 free app without Card)
     - [Google App Engine](https://cloud.google.com/appengine) (Unlimited free apps with card)
 
-1.  &nbsp;[`MongoDB`](https://learn.mongodb.com/)
+1. &nbsp;[`MongoDB`](https://learn.mongodb.com/)
 
     - Introduction to MongoDB Database
     - MongoDB Schema and model
     - MongoDB CRUD Operation
 
-1.  [`ReactJS`](https://daveceddia.com/react-getting-started-tutorial/) Integration (2 weeks)
+1. [`ReactJS`](https://daveceddia.com/react-getting-started-tutorial/) Integration (2 weeks)
     - Basic introduction to react
     - Chatbot popup using react-chat-widget in existing react.js web app
     - CRUD operation in ReactJs
     - Chat app with ReactJs.
     - React.js is not fully covered in this course!
 
-1.  `Dialogflow` V2 (4 weeks)
+1. `Dialogflow` V2 (4 weeks)
     - Intent
     - Entity
     - Fulfilment
@@ -106,12 +106,12 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 
 1. Introduction to the `OpenAI` Completion Model and Completion Endpoint.
 
-1.  Introduction to the OpenAI Playground.
-1.  How to Designing a better prompt.
-1.  Using `ChatGPT` in your apps for classification, generation, transformation, translation, and conversion.
-1.  Building Chatbots on top of ChatGPT3.
-1.  Supercharging `Dialogflow` Chatbots with ChatGPT webhook.
-1.  Assembling and uploading training data into ChatGPT.
+1. Introduction to the OpenAI Playground.
+1. How to Designing a better prompt.
+1. Using `ChatGPT` in your apps for classification, generation, transformation, translation, and conversion.
+1. Building Chatbots on top of ChatGPT3.
+1. Supercharging `Dialogflow` Chatbots with ChatGPT webhook.
+1. Assembling and uploading training data into ChatGPT.
 1. `Fine-tuning` techniques.
 1. Introduction to the JSONL document.
 1. Introduction to OpenAI CLI tools.
