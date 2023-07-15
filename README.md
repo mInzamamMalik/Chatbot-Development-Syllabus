@@ -36,6 +36,7 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 - **`DialogFlow`**
 - **`ChatGPT API (fine-tuning)`**
 - **`Whisper API`**
+- **`Pinecone (Vector database)`**
 
 ### Details
 
@@ -97,28 +98,34 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
     - Entity
     - Fulfilment
     - Context
-1.  3 Real life Chatbots Integrations for hands-on practice
+1. 3 Real life Chatbots Integrations for hands-on practice
 
     - Hotel booking Assistant
     - Online Store Assistant
     - Weather Assistant
 
-1.  Introduction to the `OpenAI` Completion Model and Completion Endpoint.
+1. Introduction to the `OpenAI` Completion Model and Completion Endpoint.
+
 1.  Introduction to the OpenAI Playground.
 1.  How to Designing a better prompt.
 1.  Using `ChatGPT` in your apps for classification, generation, transformation, translation, and conversion.
 1.  Building Chatbots on top of ChatGPT3.
 1.  Supercharging `Dialogflow` Chatbots with ChatGPT webhook.
 1.  Assembling and uploading training data into ChatGPT.
-1.  `Fine-tuning` techniques.
-1.  Introduction to the JSONL document.
-1.  Introduction to OpenAI CLI tools.
-1.  Building your own `fine-tuned model`.
-1.  Entity extraction.
-1.  Introduction to hyper-parameters.
-1.  Using existing fine-tuned models.
-1.  Further fine-tuning on existing fine-tuned models.
-1.  Validating fine-tuned models for weight and biases.
+1. `Fine-tuning` techniques.
+1. Introduction to the JSONL document.
+1. Introduction to OpenAI CLI tools.
+1. Building your own `fine-tuned model`.
+1. Entity extraction.
+1. Introduction to hyper-parameters.
+1. Using existing fine-tuned models.
+1. Further fine-tuning on existing fine-tuned models.
+1. Validating fine-tuned models for weight and biases.
+1. [Pinecone's](https://www.pinecone.io/) vector database
+
+    - Long-Term Memory for AI, Transform your business with high-performance AI applications. Pinecone's vector database is fully-managed, developer-friendly, and easily scalable.
+
+    - Unlock powerful vector search with Pinecone — intuitive to use, designed for speed, and effortlessly scalable.
 
 	[`Whisper API`](https://github.com/openai/whisper) is a breakthrough, press is talking about ChatGPT 4 but it not released yet.
 	Whisper is real and I have used it it is far far better then google speech to text it understand sentences that has two languages in it, previously you had to download the model and run on your machine with 64gb ram memory but now you just have to pay as you go.
