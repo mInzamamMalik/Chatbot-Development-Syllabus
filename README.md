@@ -121,14 +121,16 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 1. Using existing fine-tuned models.
 1. Further fine-tuning on existing fine-tuned models.
 1. Validating fine-tuned models for weight and biases.
+1. [`Whisper API`](https://github.com/openai/whisper) is a breakthrough, Whisper is real and I have used it. It's far far better then google speech to text it understand sentences that has two languages in it, previously you had to download the model and run on your machine with 64gb ram memory but now you just have to pay as you go.
+
 1. [Pinecone's](https://www.pinecone.io/) vector database
 
-    - Long-Term Memory for AI, Transform your business with high-performance AI applications. Pinecone's vector database is fully-managed, developer-friendly, and easily scalable.
+    - It's Long-Term Memory for AI
+    - Unlock powerful vector search with Pinecone
+    - Intuitive to use, designed for speed, and effortlessly scalable.
+    - Transform your business with high-performance AI applications. Pinecone's vector database is fully-managed, developer-friendly, and easily scalable.
 
-    - Unlock powerful vector search with Pinecone — intuitive to use, designed for speed, and effortlessly scalable.
 
-	[`Whisper API`](https://github.com/openai/whisper) is a breakthrough, press is talking about ChatGPT 4 but it not released yet.
-	Whisper is real and I have used it it is far far better then google speech to text it understand sentences that has two languages in it, previously you had to download the model and run on your machine with 64gb ram memory but now you just have to pay as you go.
 **AI as a service is the future of AI**
 
 ## Scope
