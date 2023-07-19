@@ -126,6 +126,7 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 
 1. [Pinecone's](https://www.pinecone.io/) vector database
 
+    - what is word embedding: https://www.youtube.com/watch?v=5MaWmXwxFNQ
     - It's Long-Term Memory for AI
     - Unlock powerful vector search with Pinecone
     - Intuitive to use, designed for speed, and effortlessly scalable.
