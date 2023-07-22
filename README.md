@@ -19,12 +19,15 @@
 ## Objective
 
 In this course you will learn how to make state of the art AI Chatbots with `OP stack  (OpenAI + Pinecone)`<br>
-[ChatGPT](https://openai.com/blog/chatgpt) is a new kind of AI as a Service (AIaaS) which is gaining significant traction. In the foreseeable future, only large corporations will be responsible for creating their own AI models, while smaller entities will rely on pre-trained, general-purpose models such as ChatGPT. As an AI developer and chatbot expert, I opine that while ChatGPT may not yet be at the peak of its potential, it is poised to make substantial progress in the near future.
+[ChatGPT](https://openai.com/blog/chatgpt) is a new kind of `AI as a Service (AIaaS)` which is gaining significant traction. In the foreseeable future, only large corporations will be responsible for creating their own AI models, while smaller entities will rely on pre-trained, general-purpose models such as ChatGPT. As an AI developer and chatbot expert, I opine that while ChatGPT may not yet be at the peak of its potential, it is poised to make substantial progress in the near future.
+
 This course will offer comprehensive insights not only on ChatGPT APIs but also provide guidance on how such new forms of AI can be utilized by application developers. With the ChatGPT gold rush already underway, the ultimate aim of this course is to equip participants with the necessary skills to become part of this technological revolution.
 
 ## Who Is This Course for?
 
-This course is designed for aspiring AI developers, Chat-bot enthusiasts, and application developers who are eager to explore the world of state-of-the-art AI Chat-bots. Whether you are a seasoned programmer or just starting your journey into the realm of artificial intelligence, this comprehensive course will equip you with the necessary skills to become a part of the technological revolution driven by AIaaS. **Just basic Programming knowledge is required in any language,** No prior experience with Python is required, as the course focuses on JavaScript, making it accessible to a wider audience. If you are intrigued by the potential of AI-powered Chat-bots and wish to leverage pre-trained, general-purpose models like ChatGPT to build innovative applications, this course will provide you with the knowledge and insights to do so effectively.
+This course is designed for aspiring AI developers and Chat-bot enthusiasts, and application developers who are eager to explore the world of `state-of-the-art AI Chat-bots`. Whether you are a seasoned programmer or just starting your journey into the realm of artificial intelligence, this comprehensive course will equip you with the necessary skills to become a part of the `technological revolution driven by AIaaS`.
+
+**Just basic Programming knowledge is required in any language,** No prior experience with Python is required, as the course focuses on JavaScript, making it accessible to a wider audience. If you are intrigued by the potential of AI-powered Chat-bots and wish to `leverage pre-trained, general-purpose models` like ChatGPT to build innovative applications, this course will provide you with the knowledge and insights to do so effectively.
 
 ## Course outline
 
@@ -140,7 +143,7 @@ This course is designed for aspiring AI developers, Chat-bot enthusiasts, and ap
 ## Scope
 
 Chatbot projects are highly in demand in international market, After successful completion of this
-course you will be empowered to pursue exciting opportunities as a Chatbot Developer in software houses or even embark on a freelance journey with Fiverr and Upwork (how to do freelancing is not covered in this course), tapping into the gold rush of AIaaS in the international market.
+course you will be empowered to pursue exciting opportunities as a Chatbot Developer in software houses or even embark on a `freelance` journey with Fiverr and Upwork **(How to do freelancing is not covered in this course)**, tapping into the gold rush of `AIaaS` in the international market.
 
 ## Course Resources
 
