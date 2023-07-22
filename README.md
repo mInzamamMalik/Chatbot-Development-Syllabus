@@ -24,7 +24,7 @@ This course will offer comprehensive insights not only on ChatGPT APIs but also 
 
 ## Who Is This Course for?
 
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam non quam sit ea, est mollitia sed doloribus autem quibusdam dolorum, accusamus nemo quasi fuga sint. Quibusdam, doloremque tempore, est mollitia sed doloribus autem quibusdam dolorum, accusamus nemo quasi fuga sint. Quibusdam, doloremque tempor.
+This course is designed for aspiring AI developers, Chat-bot enthusiasts, and application developers who are eager to explore the world of state-of-the-art AI Chat-bots. Whether you are a seasoned programmer or just starting your journey into the realm of artificial intelligence, this comprehensive course will equip you with the necessary skills to become a part of the technological revolution driven by AIaaS. **Just basic Programming knowledge is required in any language,** No prior experience with Python is required, as the course focuses on JavaScript, making it accessible to a wider audience. If you are intrigued by the potential of AI-powered Chat-bots and wish to leverage pre-trained, general-purpose models like ChatGPT to build innovative applications, this course will provide you with the knowledge and insights to do so effectively.
 
 ## Course outline
 
@@ -32,7 +32,7 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 
 - **`Git`**, **`HTML`** and **`CSS`** overview
 - **`JavaScript`** (ES6+) &nbsp;&nbsp;&nbsp;&nbsp;~~No Python~~
-- **`NodeJS`**, **`ExpressJs`**
+- **`NodeJS`**, **`ExpressJS`**
 - **`MongoDB`**
 - **`DialogFlow`**
 - **`OpenAI's ChatGPT API (fine-tuning)`**
@@ -51,13 +51,14 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 1. [`JavaScript`](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR) programming fundamental (ES6+) (3 weeks)
     |   |   |
     | --- | --- |
-    | Variables | Boolean, Number, String, Array, Objects|
+    | Variables | Number, String, Boolean, Array, Objects|
     |Math Operators|+ - \* / % -- ++|
     |Conditional Statements |If else, ternary operator|
     |Conditional operators| === !== < > <= >=|
     |Logical operators|&& &nbsp; \|\| &nbsp; !|
-    |Loop Statements |For loop, map|
-    |ES6 functions|
+    |Loop Statements |For loop, map, for in loop|
+    |ES6 functions| ()=>|
+    |Async Await||
 
 1. [REST API design principles](https://www.ibm.com/topics/rest-apis)
 
@@ -70,7 +71,7 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
     - [Micro service architecture](https://cloud.google.com/learn/what-is-microservices-architecture)
     - [Ninon service architecture](https://techbeacon.com/app-dev-testing/nanoservices-where-they-fit-where-they-dont) (AWS Lambda)
 
-1. Writing JavaScript `Servers` with and `Express.js/Node.js` (4 weeks)
+1. Writing JavaScript `Servers` with and `ExpressJS/NodeJS` (4 weeks)
 
     - Introduction to Servers
     - Express.js GET, POST, PUT, DELETE
@@ -84,6 +85,8 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 1. &nbsp;[`MongoDB`](https://learn.mongodb.com/)
 
     - Introduction to MongoDB Database
+    - SQL vs NoSQL (multi-region)
+    - Setting up Mongodb Atlas
     - MongoDB Schema and model
     - MongoDB CRUD Operation
 
@@ -126,29 +129,25 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus perferendis nam 
 
 1. [Pinecone's](https://www.pinecone.io/) vector database
 
-    - what is word embedding: https://www.youtube.com/watch?v=5MaWmXwxFNQ
+    - What is [`Word Embedding?`](https://youtu.be/5MaWmXwxFNQ)
     - It's Long-Term Memory for AI
     - Unlock powerful vector search with Pinecone
     - Intuitive to use, designed for speed, and effortlessly scalable.
     - Transform your business with high-performance AI applications. Pinecone's vector database is fully-managed, developer-friendly, and easily scalable.
 
-
 **AI as a service is the future of AI**
 
 ## Scope
 
-Chatbot projects are highly in demand in international market, after successful completion of this
-course one can apply for Chatbot Developer position in software house or work as freelancer on
-Fiverr and Upwork (how to do freelancing is not covered in this course)
-
-**Note :** this syllabus is part of a bigger syllabus, infact it will be added at the end of existing chatbot course.
+Chatbot projects are highly in demand in international market, After successful completion of this
+course you will be empowered to pursue exciting opportunities as a Chatbot Developer in software houses or even embark on a freelance journey with Fiverr and Upwork (how to do freelancing is not covered in this course), tapping into the gold rush of AIaaS in the international market.
 
 ## Course Resources
 
 - [Github Repo](https://github.com/mInzamamMalik/SMIT-chatbot-b3)
 - [Youtube Playlist](https://youtube.com/playlist?list=PLaZSdijfCCJAaiGINILElinr8wlgNS7Vy)
 - [Website to submit assignments](https://sysborg-air.web.app/)
-- [WhatsApp group]()
+- [WhatsApp group](https://chat.whatsapp.com/IRY1Bd1OxIpGa6lcLh8HzB)
 
 ## Other Resources
 
