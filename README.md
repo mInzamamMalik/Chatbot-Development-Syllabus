@@ -46,7 +46,7 @@ This course is designed for aspiring AI developers and Chat-bot enthusiasts, and
 
 1. In weak one we will have an overview of :
 
-    - [`Git and Github`](https://youtu.be/vbH9gMqJ5GQ)
+    - [`Git and Github`](https://rogerdudler.github.io/git-guide/). [(Video)](https://youtu.be/vbH9gMqJ5GQ)
     - [`HTML`](https://youtu.be/HcOc7P5BMi4) and [`CSS`](https://youtu.be/Edsxf_NBFrw).
       (1 week)
 
