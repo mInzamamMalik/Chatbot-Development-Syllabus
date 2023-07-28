@@ -10,15 +10,16 @@ Main reason of giving an assignment is to give hands-on practice to student of a
 - Be Hosted
 - Be with Github Link
 
-| No. | Assignment             |
-| --- | ---------------------- |
-| 1.  | Odd Even Calculator    |
-| 2.  | Weather App            |
-| 3.  | CRUD with Express      |
-| 4.  | CRUD with MongoDB      |
-| 5.  | ChatApp with Socket.IO |
-| 6.  | Pizza Chatbot          |
-| 7.  |                        |
-| 8.  |                        |
-| 9.  |                        |
-| 10. |                        |
+| No. | Assignment              |
+| --- | ----------------------- |
+| 1.  | Odd Even Calculator     |
+| 2.  | Weather App             |
+| 3.  | CRUD with Express       |
+| 4.  | CRUD with MongoDB       |
+| 0.  | to be updated  |
+| 5.  | ChatApp with Socket.IO  |
+| 6.  | Pizza Chatbot           |
+| 7.  | Hotel booking Assistant |
+| 8.  | Online Store Assistant  |
+| 9.  | Weather Assistant       |
+| 10. |                         |
