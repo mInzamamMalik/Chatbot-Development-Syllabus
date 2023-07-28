@@ -48,9 +48,9 @@ This course is designed for aspiring AI developers and Chat-bot enthusiasts, and
 
     - [`Git and Github`](https://rogerdudler.github.io/git-guide/). [(Video)](https://youtu.be/vbH9gMqJ5GQ)
     - [`HTML`](https://youtu.be/HcOc7P5BMi4) and [`CSS`](https://youtu.be/Edsxf_NBFrw).
-      (1 week)
+      (1 week) [Book Link](https://github.com/shehza-d/Learning-Resources/blob/main/02.Starting-of-Development(HTML)/00.Web_development_book(jon-ducket).pdf)
 
-1. Exploring the possibilities of future with [`Apple's Vision Pro`](https://www.youtube.com/live/GYkq9Rgoj8E?feature=share), and ChatGPT
+1. Exploring the possibilities of future with [`Apple's Vision Pro`](https://www.youtube.com/live/GYkq9Rgoj8E?feature=share) and ChatGPT.
 1. [`JavaScript`](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR) programming fundamental (ES6+) (3 weeks)
     |   |   |
     | --- | --- |
