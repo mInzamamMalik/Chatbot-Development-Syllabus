@@ -151,6 +151,7 @@ course you will be empowered to pursue exciting opportunities as a Chatbot Devel
 - [Youtube Playlist](https://youtube.com/playlist?list=PLaZSdijfCCJAaiGINILElinr8wlgNS7Vy)
 - [Website to submit assignments](https://sysborg-air.web.app/)
 - [WhatsApp group](https://chat.whatsapp.com/IRY1Bd1OxIpGa6lcLh8HzB)
+- [List of Assignments](./Assignments.md)
 
 ## Other Resources
 
