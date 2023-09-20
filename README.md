@@ -183,6 +183,9 @@ google qwiklab for Learning dialogflow cx https://www.cloudskillsboost.google/fo
 https://learn.deeplearning.ai/chatgpt-prompt-eng - this is a very good course, it teaches openai gpt-3.5 prompt concepts to get desired results efficiently, problem is this course use python and it doesnt match with my course that uses es6, so I will only select part of this course that doesnt have coding and teaches concepts only so that selection is remaining from my side.
 
 
+#### 3.Peter Fessel Dialogflow CX playlist
+https://www.youtube.com/playlist?list=PLJLSPq0cTRmat9ec-c0hOJJhhNfObZXy3
+
 
 ## Not part of the course but still useful resource:
 #### Dialogflow ES and CX book: 
