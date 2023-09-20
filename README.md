@@ -167,3 +167,24 @@ course you will be empowered to pursue exciting opportunities as a Chatbot Devel
 <br><hr>
 
 <h4 align='center'>Readme by <a href='https://github.com/shehza-d/'>Shehzad</a></h4>
+
+
+
+<br>
+<br>
+<br>
+
+## Under Consideration:
+book: 
+for Learning dialogflow cx https://www.cloudskillsboost.google/focuses/20841?parent=catalog
+
+
+## Not part of the course but still useful resource:
+#### Dialogflow ES and CX book: 
+https://www.amazon.com/Definitive-Guide-Conversational-Dialogflow-Google/dp/1484270134 - this book is not added in the course because it is written by a google employee and it is more or less same thing what they already have in official docs, official docs are getting updates but this book is not. another main reason of not adding this book in mainly cover Dialogflow ES (v2) and I am already expert of it so I can teach it more quickly if I teach on just my memory without book and I already have completed several sections with this approach, eventually I wanted to add dialogflow CX (v3) in my course and this book just gives brief overview that is not enough so I decided not to add this book in the first place.
+
+
+#### Irfan Malik course:
+
+https://www.youtube.com/playlist?list=PLxf3-FrL8GzTIQpnY_UyzDX6JK0_Kbe_t - I was considering this playlist for my course but eventually I decided not to because this playlist is heavily based on python and python is not a good programming language for AI as a service in my opinion, however generative Ai (openai, bard and its underlaying technology) and its related tool(embedding and vector database) concepts taught in this course are good. if you watch any of the concepts in this video you will have to put some extra efforts to code that concept in es6 by searching equalent library in es6.
+
