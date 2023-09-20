@@ -175,8 +175,13 @@ course you will be empowered to pursue exciting opportunities as a Chatbot Devel
 <br>
 
 ## Under Consideration:
-book: 
-for Learning dialogflow cx https://www.cloudskillsboost.google/focuses/20841?parent=catalog
+#### 1. Dialogflow CX: Bot Building Basics
+google qwiklab for Learning dialogflow cx https://www.cloudskillsboost.google/focuses/20841?parent=catalog
+
+#### 2. ChatGPT Prompt Engineering for Developers
+
+https://learn.deeplearning.ai/chatgpt-prompt-eng - this is a very good course, it teaches openai gpt-3.5 prompt concepts to get desired results efficiently, problem is this course use python and it doesnt match with my course that uses es6, so I will only select part of this course that doesnt have coding and teaches concepts only so that selection is remaining from my side.
+
 
 
 ## Not part of the course but still useful resource:
