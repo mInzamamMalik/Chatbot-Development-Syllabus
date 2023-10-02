@@ -4,8 +4,8 @@
 
 <img src='./readme-assets/cover.png'/>
 
-|               |                                                          |
-| :------------ | :------------------------------------------------------- | ------------------------------ |
+|||
+|--------------------------|--------------------------|
 | Prerequisites | Basic programming knowledge                              | List all new or modified files |
 | Instructor    | [M. Inzamam Malik](https://www.linkedin.com/in/minzamam) |
 | Duration      | 6 Months                                                 |
