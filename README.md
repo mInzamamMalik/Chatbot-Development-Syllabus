@@ -115,6 +115,8 @@ This course is designed for aspiring AI developers and Chat-bot enthusiasts, and
 2. What is [`Word Embedding?`](https://youtu.be/5MaWmXwxFNQ)
 
 3. `Dialogflow` V2 (4 weeks)
+
+   -  [Google's Skill Boost Course](https://www.cloudskillsboost.google/course_templates/706)
    - Intent
    - Entity
    - Fulfilment
