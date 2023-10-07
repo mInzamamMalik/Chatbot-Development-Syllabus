@@ -114,15 +114,13 @@ This course is designed for aspiring AI developers and Chat-bot enthusiasts, and
 
 1. What is [`Word Embedding?`](https://youtu.be/5MaWmXwxFNQ)
 
-1. ### `Dialogflow` V2 (4 weeks)
+1. `Dialogflow` V2 (4 weeks)
 
-   - [Google's qwiklabs for Dialogflow CX (Bot Building Basics)](https://www.cloudskillsboost.google/focuses/20841?parent=catalog)
+   - [Google's Skill Boost Course](https://www.cloudskillsboost.google/course_templates/706)
    - Intent
    - Entity
    - Fulfilment
    - Context
-
-1. Design theory of Chatbot [(chapter 3 of this book).](<[https://](https://github.com/shehza-d/Learning-Resources/blob/main/20.ChatBot(SirInzamam)/Voice_Applications-(Alexa_and_Google_v5).pdf)>)
 
 1. 3 Real life Chatbots Integrations for hands-on practice
 
@@ -177,22 +175,26 @@ course you will be empowered to pursue exciting opportunities as a Chatbot Devel
 <br>
 <br>
 
-## Under Consideration
+## Under Consideration:
 
-1. ### [Google qwiklabs for Learning Dialogflow CX](https://www.cloudskillsboost.google/course_templates/706)
+#### 1. Dialogflow CX: Bot Building Basics
 
-2. ### [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng)
+google qwiklab for Learning dialogflow cx https://www.cloudskillsboost.google/focuses/20841?parent=catalog
 
-   This is a very good course, it teaches OpenAI gpt-3.5 prompt concepts to get desired results efficiently, problem is this course use python and it doesn't match with my course that uses es6, so I will only select part of this course that doesn't have coding and teaches concepts only so that selection is remaining from my side.
+#### 2. ChatGPT Prompt Engineering for Developers
 
-3. ### [Peter Fessel Dialogflow CX playlist](https://www.youtube.com/playlist?list=PLJLSPq0cTRmat9ec-c0hOJJhhNfObZXy3)
+https://learn.deeplearning.ai/chatgpt-prompt-eng - this is a very good course, it teaches openai gpt-3.5 prompt concepts to get desired results efficiently, problem is this course use python and it doesnt match with my course that uses es6, so I will only select part of this course that doesnt have coding and teaches concepts only so that selection is remaining from my side.
 
-## Not part of the course but still useful resource
+#### 3.Peter Fessel Dialogflow CX playlist
 
-### [Dialogflow ES and CX book](https://www.amazon.com/Definitive-Guide-Conversational-Dialogflow-Google/dp/1484270134)
+https://www.youtube.com/playlist?list=PLJLSPq0cTRmat9ec-c0hOJJhhNfObZXy3
 
-This book is not added in the course because it is written by a google employee and it is more or less same thing what they already have in official docs, official docs are getting updates but this book is not. another main reason of not adding this book in mainly cover Dialogflow ES (v2) and I am already expert of it so I can teach it more quickly if I teach on just my memory without book and I already have completed several sections with this approach, eventually I wanted to add dialogflow CX (v3) in my course and this book just gives brief overview that is not enough so I decided not to add this book in the first place.
+## Not part of the course but still useful resource:
 
-### [Irfan Malik course](https://www.youtube.com/playlist?list=PLxf3-FrL8GzTIQpnY_UyzDX6JK0_Kbe_t)
+#### Dialogflow ES and CX book:
 
-I was considering this playlist for my course but eventually I decided not to because this playlist is heavily based on python and python is not a good programming language for AI as a service in my opinion, however generative Ai (OpenAI, bard and its underlying technology) and its related tool(embedding and vector database) concepts taught in this course are good. if you watch any of the concepts in this video you will have to put some extra efforts to code that concept in es6 by searching equivalent library in es6. another problem I found in this course that it teaches some concepts in very detail that is I think not mandatory and lead to confusion and overthinking such as diffusion and generator concepts. I think we are not supposed to learn things in that depth in Ai as a service domain, otherwise I was planning to add video that doesn't have coding in it but eventually decided not to.
+https://www.amazon.com/Definitive-Guide-Conversational-Dialogflow-Google/dp/1484270134 - this book is not added in the course because it is written by a google employee and it is more or less same thing what they already have in official docs, official docs are getting updates but this book is not. another main reason of not adding this book in mainly cover Dialogflow ES (v2) and I am already expert of it so I can teach it more quickly if I teach on just my memory without book and I already have completed several sections with this approach, eventually I wanted to add dialogflow CX (v3) in my course and this book just gives brief overview that is not enough so I decided not to add this book in the first place.
+
+#### Irfan Malik course:
+
+https://www.youtube.com/playlist?list=PLxf3-FrL8GzTIQpnY_UyzDX6JK0_Kbe_t - I was considering this playlist for my course but eventually I decided not to because this playlist is heavily based on python and python is not a good programming language for AI as a service in my opinion, however generative Ai (openai, bard and its underlying technology) and its related tool(embedding and vector database) concepts taught in this course are good. if you watch any of the concepts in this video you will have to put some extra efforts to code that concept in es6 by searching equivalent library in es6. another problem I found in this course that it teaches some concepts in very detail that is I think not mandatory and lead to confusion and overthinking such as diffusion and generator concepts. I think we are not supposed to learn things in that depth in Ai as a service domain, otherwise I was planning to add video that doesnt have coding in it but eventually decided not to.
