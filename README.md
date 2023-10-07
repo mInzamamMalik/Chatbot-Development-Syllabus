@@ -169,11 +169,6 @@ course you will be empowered to pursue exciting opportunities as a Chatbot Devel
 - [Will ChatGPT replace Humans?](https://youtu.be/84kL9fInMfQ)
 - [Dialogflow knowledge base vs ChatGPT4](https://youtu.be/BZgjbCX1vVU)
 
-<br><hr>
-
-<h4 align='center'>Readme by <a href='https://github.com/shehza-d/'>Shehzad</a></h4>
-
-<br>
 <br>
 <br>
 
@@ -196,3 +191,7 @@ This book is not added in the course because it is written by a google employee 
 ### [Irfan Malik course](https://www.youtube.com/playlist?list=PLxf3-FrL8GzTIQpnY_UyzDX6JK0_Kbe_t)
 
 I was considering this playlist for my course but eventually I decided not to because this playlist is heavily based on python and python is not a good programming language for AI as a service in my opinion, however generative Ai (OpenAI, bard and its underlying technology) and its related tool(embedding and vector database) concepts taught in this course are good. if you watch any of the concepts in this video you will have to put some extra efforts to code that concept in es6 by searching equivalent library in es6. another problem I found in this course that it teaches some concepts in very detail that is I think not mandatory and lead to confusion and overthinking such as diffusion and generator concepts. I think we are not supposed to learn things in that depth in Ai as a service domain, otherwise I was planning to add video that doesn't have coding in it but eventually decided not to.
+
+<br><hr>
+
+<h4 align='center'>Readme by <a href='https://github.com/shehza-d/'>Shehzad</a></h4>
