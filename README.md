@@ -4,8 +4,8 @@
 
 <img src='./readme-assets/cover.png'/>
 
-|||
-|--------------------------|--------------------------|
+|               |                                                          |
+| ------------- | -------------------------------------------------------- | ------------------------------ |
 | Prerequisites | Basic programming knowledge                              | List all new or modified files |
 | Instructor    | [M. Inzamam Malik](https://www.linkedin.com/in/minzamam) |
 | Duration      | 6 Months                                                 |
@@ -112,39 +112,40 @@ This course is designed for aspiring AI developers and Chat-bot enthusiasts, and
    2. [Pinecone database](https://www.pinecone.io/)
       - Transform your business with high-performance AI applications. Pinecone's vector database is fully-managed, developer-friendly, and easily scalable.
 
-2. What is [`Word Embedding?`](https://youtu.be/5MaWmXwxFNQ)
+1. What is [`Word Embedding?`](https://youtu.be/5MaWmXwxFNQ)
 
-3. `Dialogflow` V2 (4 weeks)
+1. `Dialogflow` V2 (4 weeks)
 
-   -  [Google's Skill Boost Course](https://www.cloudskillsboost.google/course_templates/706)
+   - [Google's Skill Boost Course](https://www.cloudskillsboost.google/course_templates/706)
    - Intent
    - Entity
    - Fulfilment
    - Context
-4. 3 Real life Chatbots Integrations for hands-on practice
+
+1. 3 Real life Chatbots Integrations for hands-on practice
 
    - Hotel booking Assistant
    - Online Store Assistant
    - Weather Assistant
 
-5. Introduction to the `OpenAI` Completion Model and Completion Endpoint.
+1. Introduction to the `OpenAI` Completion Model and Completion Endpoint.
 
-6. Introduction to the OpenAI Playground.
-7. How to Designing a better prompt.
-8. Using `ChatGPT` in your apps for classification, generation, transformation, translation, and conversion.
-9. Building Chatbots on top of ChatGPT3.
-10. Supercharging `Dialogflow` Chatbots with ChatGPT webhook.
-11. Assembling and uploading training data into ChatGPT.
-12. `Fine-tuning` techniques.
-13. Introduction to the JSONL document.
-14. Introduction to OpenAI CLI tools.
-15. Building your own `fine-tuned model`.
-16. Entity extraction.
-17. Introduction to hyper-parameters.
-18. Using existing fine-tuned models.
-19. Further fine-tuning on existing fine-tuned models.
-20. Validating fine-tuned models for weight and biases.
-21. [`Whisper API`](https://github.com/openai/whisper) is a breakthrough, Whisper is real and I have used it. It's far far better then google speech to text it understand sentences that has two languages in it, previously you had to download the model and run on your machine with 64gb ram memory but now you just have to pay as you go.
+1. Introduction to the OpenAI Playground.
+1. How to Designing a better prompt.
+1. Using `ChatGPT` in your apps for classification, generation, transformation, translation, and conversion.
+1. Building Chatbots on top of ChatGPT3.
+1. Supercharging `Dialogflow` Chatbots with ChatGPT webhook.
+1. Assembling and uploading training data into ChatGPT.
+1. `Fine-tuning` techniques.
+1. Introduction to the JSONL document.
+1. Introduction to OpenAI CLI tools.
+1. Building your own `fine-tuned model`.
+1. Entity extraction.
+1. Introduction to hyper-parameters.
+1. Using existing fine-tuned models.
+1. Further fine-tuning on existing fine-tuned models.
+1. Validating fine-tuned models for weight and biases.
+1. [`Whisper API`](https://github.com/openai/whisper) is a breakthrough, Whisper is real and I have used it. It's far far better then google speech to text it understand sentences that has two languages in it, previously you had to download the model and run on your machine with 64gb ram memory but now you just have to pay as you go.
 
 **AI as a service is the future of AI**
 
@@ -170,31 +171,30 @@ course you will be empowered to pursue exciting opportunities as a Chatbot Devel
 
 <h4 align='center'>Readme by <a href='https://github.com/shehza-d/'>Shehzad</a></h4>
 
-
-
 <br>
 <br>
 <br>
 
 ## Under Consideration:
+
 #### 1. Dialogflow CX: Bot Building Basics
+
 google qwiklab for Learning dialogflow cx https://www.cloudskillsboost.google/focuses/20841?parent=catalog
 
 #### 2. ChatGPT Prompt Engineering for Developers
 
 https://learn.deeplearning.ai/chatgpt-prompt-eng - this is a very good course, it teaches openai gpt-3.5 prompt concepts to get desired results efficiently, problem is this course use python and it doesnt match with my course that uses es6, so I will only select part of this course that doesnt have coding and teaches concepts only so that selection is remaining from my side.
 
-
 #### 3.Peter Fessel Dialogflow CX playlist
+
 https://www.youtube.com/playlist?list=PLJLSPq0cTRmat9ec-c0hOJJhhNfObZXy3
 
-
 ## Not part of the course but still useful resource:
-#### Dialogflow ES and CX book: 
-https://www.amazon.com/Definitive-Guide-Conversational-Dialogflow-Google/dp/1484270134 - this book is not added in the course because it is written by a google employee and it is more or less same thing what they already have in official docs, official docs are getting updates but this book is not. another main reason of not adding this book in mainly cover Dialogflow ES (v2) and I am already expert of it so I can teach it more quickly if I teach on just my memory without book and I already have completed several sections with this approach, eventually I wanted to add dialogflow CX (v3) in my course and this book just gives brief overview that is not enough so I decided not to add this book in the first place.
 
+#### Dialogflow ES and CX book:
+
+https://www.amazon.com/Definitive-Guide-Conversational-Dialogflow-Google/dp/1484270134 - this book is not added in the course because it is written by a google employee and it is more or less same thing what they already have in official docs, official docs are getting updates but this book is not. another main reason of not adding this book in mainly cover Dialogflow ES (v2) and I am already expert of it so I can teach it more quickly if I teach on just my memory without book and I already have completed several sections with this approach, eventually I wanted to add dialogflow CX (v3) in my course and this book just gives brief overview that is not enough so I decided not to add this book in the first place.
 
 #### Irfan Malik course:
 
 https://www.youtube.com/playlist?list=PLxf3-FrL8GzTIQpnY_UyzDX6JK0_Kbe_t - I was considering this playlist for my course but eventually I decided not to because this playlist is heavily based on python and python is not a good programming language for AI as a service in my opinion, however generative Ai (openai, bard and its underlying technology) and its related tool(embedding and vector database) concepts taught in this course are good. if you watch any of the concepts in this video you will have to put some extra efforts to code that concept in es6 by searching equivalent library in es6. another problem I found in this course that it teaches some concepts in very detail that is I think not mandatory and lead to confusion and overthinking such as diffusion and generator concepts. I think we are not supposed to learn things in that depth in Ai as a service domain, otherwise I was planning to add video that doesnt have coding in it but eventually decided not to.
-
